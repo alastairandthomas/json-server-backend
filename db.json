@@ -1,8 +1,26 @@
 {
   "projects": [
-
+    {
+      "id": 1,
+      "title": "Snake",
+      "description": "Snake game built using JS and DOM manipulation",
+      "image": "https://s3.amazonaws.com/i.snag.gy/f8PUbQ.jpg",
+      "author": "Alastair Longmuir"
+    },
+    {
+      "id": 2,
+      "title": "Diagram Chess Game",
+      "description": "Your daily 3 chess diagrams for practicing chess",
+      "image": "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpZTvydV.png",
+      "author": "Thomas Deblay"
+    },
+    {
+      "id": 3,
+      "title": "Kanban",
+      "description": "A Basic Kanban To Do with drag and drop",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Abstract_Kanban_Board.svg",
+      "author": "Thomas and Stefan"
+    }
   ],
-  "users": [
-
-  ]
+  "users": []
 }
